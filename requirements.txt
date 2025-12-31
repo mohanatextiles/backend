@@ -1,0 +1,15 @@
+# FastAPI Backend
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+pydantic-settings
+
+# Database
+sqlalchemy
+asyncpg
+
+# Utilities
+aiofiles
+python-dotenv
+httpx

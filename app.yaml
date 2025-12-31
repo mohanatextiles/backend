@@ -1,0 +1,12 @@
+{
+  "name": "Mohana Textiles Backend",
+  "description": "E-commerce backend API for Mohana Textiles",
+  "runtime": "python",
+  "python_version": "3.11",
+  "sdk": "docker",
+  "emoji": "🏪",
+  "colorFrom": "blue",
+  "colorTo": "purple",
+  "port": 7860,
+  "app_file": "run.py"
+}
